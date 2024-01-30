@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+  object-fit: cover;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.container{
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  border: 2px solid red;
+}
+.card{
+  width: 400px;
+}
+img{
+  height: 300px;
+  margin-bottom: 10px;
+}
+h3{
+  margin-bottom: 10px;
+}
+p{
+  margin-bottom: 10px;
+}
+h4{
+  margin-bottom: 10px;
+}
+h5{
+  margin-bottom: 10px;
+}
